@@ -1,48 +1,59 @@
 {
   "menu": [
     {
-      "title": "سيرفر البث الرئيسي",
-      "icon": "الأسطورة"
+      "title": "القنوات العربية",
+      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+      "link":"https://raw.githubusercontent.com/Emad-Pro/Live_APis/main/arab_channel_list.json"
     },
     {
       "title": "المسلسلات العربية",
-      "icon": "مسلسلات"
+      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+      "link":""
     },
     {
       "title": "مسلسلات رمضان 2024",
-      "icon": "رمضان كريم"
+      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+      "link":""
     },
     {
       "title": "الأفلام العربية",
-      "icon": "أفلام عربي"
+      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+      "link":""
     },
     {
       "title": "مسرحيات",
-      "icon": "مسرحيات"
+      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+      "link":""
     },
     {
       "title": "سيبيستون",
-      "icon": "سيبيستون"
+      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+      "link":""
     },
     {
       "title": "المصارعة الحرة",
-      "icon": "WWE"
+      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+      "link":""
     },
     {
       "title": "الأفلام الأجنبية",
-      "icon": "الأسطورة"
+      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+      "link":""
     },
     {
       "title": "المسلسلات الأجنبية",
-      "icon": "الأسطورة"
+      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+      "link":""
     },
     {
       "title": "المسلسلات التركية",
-      "icon": "تركيا"
+       "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+      "link":""
     },
     {
       "title": "المسلسلات التركية 2",
-      "icon": "تركيا"
+      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+      "link":""
     }
   ]
 }
