@@ -6,54 +6,19 @@
       "link":"arab_channel_list.json"
     },
     {
-      "title": "المسلسلات العربية",
+      "title": "القنوات المغربية",
       "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":""
+      "link":"moroco_channel_list.json"
     },
-    {
-      "title": "مسلسلات رمضان 2024",
+        {
+      "title": "القنوات التركية",
       "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":""
+      "link":"turk_channel_list.json"
     },
-    {
-      "title": "الأفلام العربية",
+        {
+      "title": "القنوات العالمية",
       "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":""
+      "link":"inter_channel_list.json"
     },
-    {
-      "title": "مسرحيات",
-      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":""
-    },
-    {
-      "title": "سيبيستون",
-      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":""
-    },
-    {
-      "title": "المصارعة الحرة",
-      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":""
-    },
-    {
-      "title": "الأفلام الأجنبية",
-      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":""
-    },
-    {
-      "title": "المسلسلات الأجنبية",
-      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":""
-    },
-    {
-      "title": "المسلسلات التركية",
-       "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":""
-    },
-    {
-      "title": "المسلسلات التركية 2",
-      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":""
-    }
   ]
 }
