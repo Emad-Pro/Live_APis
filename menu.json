@@ -3,7 +3,7 @@
     {
       "title": "القنوات العربية",
       "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":"https://raw.githubusercontent.com/Emad-Pro/Live_APis/main/arab_channel_list.json"
+      "link":"arab_channel_list.json"
     },
     {
       "title": "المسلسلات العربية",
