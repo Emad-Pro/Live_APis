@@ -1,72 +1,55 @@
 {
     "channel": [
         {
-            "category_name": "General",
+            "category_name": "Business",
             "list_channel": [
                 {
                     "duration": "-1",
-                    "tvg-id": "24TV.tr",
-                    "tvg-logo": "https://i.imgur.com/8FO41es.png",
-                    "group-title": "News",
-                    "description": "24 TV",
-                    "url": "https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8"
+                    "tvg-id": "BloombergHT.tr",
+                    "tvg-logo": "https://i.imgur.com/bmkXfIE.png ",
+                    "group-title": "Business",
+                    "description": "Bloomberg HT",
+                    "url": "https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8"
+                }
+            ]
+        },
+        {
+            "category_name": "Culture;Education;Lifestyle",
+            "list_channel": [
+                {
+                    "duration": "-1",
+                    "tvg-id": "CiftciTV.tr",
+                    "tvg-logo": "https://i.imgur.com/CLzP4vL.png ",
+                    "group-title": "Culture;Education",
+                    "description": "Çiftçi TV (1080p) [Not 24/7]",
+                    "url": "http: //stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8"
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "360.tr",
-                    "tvg-logo": "https://i.imgur.com/agn47sQ.png",
-                    "group-title": "News",
-                    "description": "360 TV (720p) [Not 24/7]",
-                    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
-                },
+                    "tvg-id": "WomanTV.tr",
+                    "tvg-logo": "https://i.imgur.com/f2zGoV3.png ",
+                    "group-title": "Culture;Education;Lifestyle",
+                    "description": "Woman TV (1080p)",
+                    "url": "https://embedlp.becdn.net/womantv.m3u8"
+                }
+            ]
+        },
+        {
+            "category_name": "Documentary",
+            "list_channel": [
                 {
                     "duration": "-1",
-                    "tvg-id": "AHaber.tr",
-                    "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
-                    "group-title": "News",
-                    "description": "A Haber",
-                    "url": "https://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "ASpor.tr",
-                    "tvg-logo": "https://i.imgur.com/ZhkZzLf.png",
-                    "group-title": "Sports",
-                    "description": "A Spor (1080p) [Not 24/7]",
-                    "url": "https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "ATurk.tr",
-                    "tvg-logo": "https://i.imgur.com/je5wQ3G.png",
-                    "group-title": "News",
-                    "description": "A T\u00fcrk Izmir (360p)",
-                    "url": "https://vdo.digitalbox.xyz:3807/stream/play.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "AnadoluAgency.tr",
-                    "tvg-logo": "https://i.imgur.com/dWElJll.png",
-                    "group-title": "News",
-                    "description": "AA Live (720p) [Not 24/7]",
-                    "url": "https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "AdaTV.cy",
-                    "tvg-logo": "https://i.imgur.com/YWmkUWU.png ",
-                    "group-title": "General",
-                    "description": "ADA TV (720p)",
-                    "url": "https://yayin1.canlitv.day/live/kibrisadatv.stream/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "AfyonTurkTV.tr",
-                    "tvg-logo": "https://i.ibb.co/tXbD8Sz/8A1HOMZ.png ",
-                    "group-title": "Undefined",
-                    "description": "Afyon T\u00fcrk TV (720p)",
-                    "url": "https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8"
-                },
+                    "tvg-id": "LoveNature.ca",
+                    "tvg-logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png ",
+                    "group-title": "Outdoor",
+                    "description": "Love Nature (1080p)",
+                    "url": "https://lnc-love-nature.tubi.video/playlist.m3u8"
+                }
+            ]
+        },
+        {
+            "category_name": "Education;Outdoor",
+            "list_channel": [
                 {
                     "duration": "-1",
                     "tvg-id": "AgroTV.tr",
@@ -74,6 +57,80 @@
                     "group-title": "Education;Outdoor",
                     "description": "Agro TV (1080p)",
                     "url": "https://yayin30.haber100.com/live/agrotv/playlist.m3u8"
+                }
+            ]
+        },
+        {
+            "category_name": "Entertainment",
+            "list_channel": [
+                {
+                    "duration": "-1",
+                    "tvg-id": "KanalDDrama.tr",
+                    "tvg-logo": "https://i.imgur.com/WIeZMKT.png ",
+                    "group-title": "Series",
+                    "description": "Kanal D Drama (1080p)",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "ShowTurk.tr",
+                    "tvg-logo": "https://i.imgur.com/fdZpGDj.png ",
+                    "group-title": "Undefined",
+                    "description": "Show Turk",
+                    "url": "https://showturk.blutv.com/blutv_showturk2/live.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "ShowTV.tr",
+                    "tvg-logo": "https://i.imgur.com/1l7SCCu.png ",
+                    "group-title": "Undefined",
+                    "description": "Show TV",
+                    "url": "http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "EdessaTV.tr",
+                    "tvg-logo": "https://i.imgur.com/rhU6j9I.png ",
+                    "group-title": "Entertainment",
+                    "description": "Edessa TV (720p)",
+                    "url": "https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "EuroStar.tr",
+                    "tvg-logo": "https://i.imgur.com/kb165Ot.png ",
+                    "group-title": "Entertainment",
+                    "description": "EuroStar TV (720p)",
+                    "url": "https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "MilyonTV.tr",
+                    "tvg-logo": "https://i.imgur.com/lEIFDwo.png ",
+                    "group-title": "Entertainment",
+                    "description": "Milyon TV (720p)",
+                    "url": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "PersianaTurkiye.fr",
+                    "tvg-logo": "https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png ",
+                    "group-title": "Entertainment",
+                    "description": "Persiana Turkiye",
+                    "url": "https://turkhls.persiana.live/hls/stream.m3u8"
+                }
+            ]
+        },
+        {
+            "category_name": "General",
+            "list_channel": [
+                {
+                    "duration": "-1",
+                    "tvg-id": "AdaTV.cy",
+                    "tvg-logo": "https://i.imgur.com/YWmkUWU.png ",
+                    "group-title": "General",
+                    "description": "ADA TV (720p)",
+                    "url": "https://yayin1.canlitv.day/live/kibrisadatv.stream/playlist.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -85,27 +142,11 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "AkitTV.tr",
-                    "tvg-logo": "https://i.imgur.com/oGto929.png",
-                    "group-title": "News",
-                    "description": "Akit TV (720p)",
-                    "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "AksuTV.tr",
                     "tvg-logo": "https://i.imgur.com/mgDCKiy.png ",
                     "group-title": "General",
                     "description": "Aksu TV (720p)",
                     "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "AlZahraTVTurkic.tr",
-                    "tvg-logo": "https://i.imgur.com/QEHKGnG.png ",
-                    "group-title": "Religious",
-                    "description": "Al-Zahra TV Turkic (720p) [Not 24/7]",
-                    "url": "https://live.al-zahratv.com/live/playlist.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -141,155 +182,11 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "ArtiTV.de",
-                    "tvg-logo": "https://i.imgur.com/j4SlXi7.png ",
-                    "group-title": "Undefined",
-                    "description": "Art\u0131 TV (1080p) [Not 24/7]",
-                    "url": "https://ythls.armelin.one/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "ATVAlanya.tr",
                     "tvg-logo": "https://i.imgur.com/bUwarR0.png ",
                     "group-title": "General",
                     "description": "ATV Alanya (720p) [Not 24/7]",
                     "url": "http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "ATVAvrupa.tr",
-                    "tvg-logo": "https://i.imgur.com/0tm3tui.png ",
-                    "group-title": "Undefined",
-                    "description": "ATV Avrupa (1080p) [Not 24/7]",
-                    "url": "https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "BabyFirst.us",
-                    "tvg-logo": "https://i.imgur.com/WxLHBwu.png ",
-                    "group-title": "Kids",
-                    "description": "BabyFirst (1080p)",
-                    "url": "https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "BBNTurk.tr",
-                    "tvg-logo": "https://www.lyngsat.com/logo/tv/bb/bbn-turk-tr.png",
-                    "group-title": "News",
-                    "description": "BBN T\u00fcrk (1080p) [Not 24/7]",
-                    "url": "https://ythls.armelin.one/channel/UCqq-1-YntK4Gq53Ka9PaVlg.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "BenguturkTV.tr",
-                    "tvg-logo": "https://i.imgur.com/p3ON1oX.png ",
-                    "group-title": "Undefined",
-                    "description": "BENG\u00dcT\u00dcRK TV (720p) [Not 24/7]",
-                    "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "BeratTV.tr",
-                    "tvg-logo": "https://i.imgur.com/BxxH8wE.png ",
-                    "group-title": "Undefined",
-                    "description": "Berat TV (720p) [Not 24/7]",
-                    "url": "https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "BesiktasWebTV.tr",
-                    "tvg-logo": "https://i.ibb.co/bRhnM6W/qti5aea.png ",
-                    "group-title": "Undefined",
-                    "description": "Be\u015fikta\u015f Web TV (360p)",
-                    "url": "https://s01.vpis.io/besiktas/besiktas.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "BeyazTV.tr",
-                    "tvg-logo": "https://i.imgur.com/uykIdML.png ",
-                    "group-title": "Undefined",
-                    "description": "Beyaz TV (720p) [Not 24/7]",
-                    "url": "https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "BeykentTV.tr",
-                    "tvg-logo": "https://i.imgur.com/Zv65ns5.png ",
-                    "group-title": "Undefined",
-                    "description": "Beykent TV (720p)",
-                    "url": "https://yayin30.haber100.com/live/beykenttv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "BirTV.tr",
-                    "tvg-logo": "https://birtv.tv/assets/upload/637f83951df60.png ",
-                    "group-title": "Undefined",
-                    "description": "Bir TV (720p)",
-                    "url": "https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "BizimevTV.tr",
-                    "tvg-logo": "https://i.imgur.com/eJa6sFY.png ",
-                    "group-title": "Undefined",
-                    "description": "Bizimev TV (720p)",
-                    "url": "https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "BloombergHT.tr",
-                    "tvg-logo": "https://i.imgur.com/bmkXfIE.png ",
-                    "group-title": "Business",
-                    "description": "Bloomberg HT",
-                    "url": "https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "BRT1.cy",
-                    "tvg-logo": "https://i.imgur.com/gOPAi2c.png ",
-                    "group-title": "Undefined",
-                    "description": "BRT 1 (720p) [Not 24/7]",
-                    "url": "https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "BRT2.cy",
-                    "tvg-logo": "https://i.imgur.com/t5kbIuj.png ",
-                    "group-title": "Undefined",
-                    "description": "BRT 2 (720p)",
-                    "url": "http://bozztv.com/gin-36bay3/gt-kibrisbrt3/index.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "BRTV.tr",
-                    "tvg-logo": "https://i.imgur.com/U3qlEAp.png ",
-                    "group-title": "Undefined",
-                    "description": "BRTV (720p) [Geo-blocked]",
-                    "url": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "ASTV.tr",
-                    "tvg-logo": "https://i.imgur.com/MCUjck8.png",
-                    "group-title": "News",
-                    "description": "Bursa AS TV (900p)",
-                    "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "BursaTV.tr",
-                    "tvg-logo": "https://i.imgur.com/9cl1MR8.png ",
-                    "group-title": "Undefined",
-                    "description": "Bursa TV (720p) [Not 24/7]",
-                    "url": "https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "CanTV.tr",
-                    "tvg-logo": "https://i.imgur.com/oIMtuwB.png",
-                    "group-title": "News",
-                    "description": "Can TV (720p)",
-                    "url": "http://canbroadcast.com:7000/canlican/tv.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -304,16 +201,8 @@
                     "tvg-id": "CekmekoyTV.tr",
                     "tvg-logo": "https://i.imgur.com/sjAGFWu.png ",
                     "group-title": "General",
-                    "description": "Cekmek\u00f6y TV (1080p)",
+                    "description": "Cekmeköy TV (1080p)",
                     "url": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "CiftciTV.tr",
-                    "tvg-logo": "https://i.imgur.com/CLzP4vL.png ",
-                    "group-title": "Culture;Education",
-                    "description": "\u00c7ift\u00e7i TV (1080p) [Not 24/7]",
-                    "url": "http: //stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -325,26 +214,10 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "Cine5.tr",
-                    "tvg-logo": "https://i.imgur.com/AmcOAIY.png ",
-                    "group-title": "Movies",
-                    "description": "Cine5 (720p)",
-                    "url": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "DehaTV.tr",
-                    "tvg-logo": "https://i.imgur.com/Dlsm9XP.png",
-                    "group-title": "News",
-                    "description": "Deha TV (720p) [Geo-blocked]",
-                    "url": "https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "DenizPostasiTV.tr",
                     "tvg-logo": "https://i.imgur.com/Mm8hdfx.png ",
                     "group-title": "General",
-                    "description": "Deniz Postas\u0131 TV (720p) [Not 24/7]",
+                    "description": "Deniz Postası TV (720p) [Not 24/7]",
                     "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
                 },
                 {
@@ -357,54 +230,6 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "DHA.tr",
-                    "tvg-logo": "https://i.imgur.com/VZhag2x.png",
-                    "group-title": "News",
-                    "description": "DHA (720p) [Not 24/7]",
-                    "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "DimTV.tr",
-                    "tvg-logo": "https://i.imgur.com/X4QFDhk.png",
-                    "group-title": "News",
-                    "description": "D\u0130M TV (720p) [Geo-blocked]",
-                    "url": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "DiyanetTV.tr",
-                    "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png ",
-                    "group-title": "Religious",
-                    "description": "Diyanet TV (1080p)",
-                    "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "DiyarTV.tr",
-                    "tvg-logo": "https://i.imgur.com/qWkHjRA.png ",
-                    "group-title": "Religious",
-                    "description": "Diyar TV (720p)",
-                    "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "DostTV.tr",
-                    "tvg-logo": "https://upload.wikimedia.org/wikipedia/en/f/f6/Dost_TV.jpg ",
-                    "group-title": "Religious",
-                    "description": "Dost TV (576p)",
-                    "url": "https://dost.stream.emsal.im/tv/live.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "DreamTurk.tr",
-                    "tvg-logo": "https://i.imgur.com/vJ8VaZi.png ",
-                    "group-title": "Music",
-                    "description": "Dream T\u00fcrk (720p)",
-                    "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "DRTDenizli.tr",
                     "tvg-logo": "https://i.imgur.com/ZLX2RB7.png ",
                     "group-title": "General",
@@ -413,35 +238,11 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "EdessaTV.tr",
-                    "tvg-logo": "https://i.imgur.com/rhU6j9I.png ",
-                    "group-title": "Entertainment",
-                    "description": "Edessa TV (720p)",
-                    "url": "https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "Ekoturk.tr",
-                    "tvg-logo": "https://i.imgur.com/TMTnMI3.png",
-                    "group-title": "News",
-                    "description": "Ekoturk",
-                    "url": "https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "ElmasTV.tr",
                     "tvg-logo": "https://i.imgur.com/czuCrzW.png ",
                     "group-title": "General",
                     "description": "Elmas TV (720p) [Not 24/7]",
                     "url": "https://5be5d840359c6.streamlock.net/elmas67tv/elmas67tv/chunklist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "EmTV.tr",
-                    "tvg-logo": "https://i.imgur.com/pHlRi8m.jpg ",
-                    "group-title": "Undefined",
-                    "description": "Em TV (486p)",
-                    "url": "https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -469,14 +270,6 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "ESTV.tr",
-                    "tvg-logo": "https://i.imgur.com/epAEBrp.png ",
-                    "group-title": "Undefined",
-                    "description": "ES TV (720p)",
-                    "url": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "ETVKayseri.tr",
                     "tvg-logo": "https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj ",
                     "group-title": "General",
@@ -485,59 +278,11 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "ETVManisa.tr",
-                    "tvg-logo": "https://i.ibb.co/QKXtdkz/sOd3INg.png ",
-                    "group-title": "Undefined",
-                    "description": "ETV Manisa (1080p) [Not 24/7]",
-                    "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "EuroD.tr",
                     "tvg-logo": "https://i.imgur.com/x9kHsXo.png ",
                     "group-title": "General",
                     "description": "Euro D (720p)",
                     "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "EuroStar.tr",
-                    "tvg-logo": "https://i.imgur.com/kb165Ot.png ",
-                    "group-title": "Entertainment",
-                    "description": "EuroStar TV (720p)",
-                    "url": "https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "FinansTurkTV.tr",
-                    "tvg-logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
-                    "group-title": "News",
-                    "description": "Finans Turk TV (720p)",
-                    "url": "https://vdo.digitalbox.xyz:3588/live/finansturktvlive.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "FinestTV.de",
-                    "tvg-logo": "https://i.imgur.com/1uoP10V.png ",
-                    "group-title": "Music",
-                    "description": "Finest TV (288p) [Not 24/7]",
-                    "url": "https://media.finest.tv/hls/live.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "FlashTV.tr",
-                    "tvg-logo": "https://i.imgur.com/L0NHKBM.png ",
-                    "group-title": "Undefined",
-                    "description": "Flash TV (720p)",
-                    "url": "https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "FortunaTV.tr",
-                    "tvg-logo": "https://i.imgur.com/ZbUSlOC.png ",
-                    "group-title": "Lifestyle",
-                    "description": "Fortuna TV (720p)",
-                    "url": "https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -557,19 +302,372 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "GSTV.tr",
-                    "tvg-logo": "https://i.imgur.com/fC3KuwT.jpg",
-                    "group-title": "Sports",
-                    "description": "GSTV [Geo-blocked]",
-                    "url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8"
+                    "tvg-id": "HunatTV.tr",
+                    "tvg-logo": "https://i.imgur.com/NrxHGnb.png ",
+                    "group-title": "General",
+                    "description": "Hunat TV (720p) [Geo-blocked]",
+                    "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8"
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "TVGunes.cy",
-                    "tvg-logo": "https://i.imgur.com/XmlXofJ.png ",
-                    "group-title": "Undefined",
-                    "description": "G\u00dcNE\u015e TV (576p) [Not 24/7]",
-                    "url": "https://sc-kuzeykibrissmarttv.ercdn.net/gunestv/bant1/playlist.m3u8"
+                    "tvg-id": "IBBTV.tr",
+                    "tvg-logo": "https://i.imgur.com/aXxAz84.png ",
+                    "group-title": "General",
+                    "description": "IBB TV (1080p)",
+                    "url": "http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "KANAL58.tr",
+                    "tvg-logo": "https://i.imgur.com/Rgc66sv.png ",
+                    "group-title": "General",
+                    "description": "KANAL 58 (1080p) [Not 24/7]",
+                    "url": "https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "SozcuTV.tr",
+                    "tvg-logo": "https://i.imgur.com/BxpdvsG.png ",
+                    "group-title": "General",
+                    "description": "Sozcu Televizyonu (1080p) [Not 24/7]",
+                    "url": "https://ythls.armelin.one/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "TGRTBelgesel.tr",
+                    "tvg-logo": "https://i.imgur.com/VwWTnf0.png ",
+                    "group-title": "General",
+                    "description": "TGRT Belgesel TV (576p)",
+                    "url": "https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "TGRTEurope.tr",
+                    "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png ",
+                    "group-title": "General",
+                    "description": "TGRT Europe (1080p)",
+                    "url": "https://canli.tgrteu.com/tgrteu.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "Tivi6.tr",
+                    "tvg-logo": "https://i.imgur.com/Mbi0jbz.png ",
+                    "group-title": "General",
+                    "description": "Tivi 6 (720p)",
+                    "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "TrakyaTurk.tr",
+                    "tvg-logo": "https://trakyaturktv.com/uploads/library/2024/04/unnamed1.jpg ",
+                    "group-title": "General",
+                    "description": "Trakya Türk TV (720p)",
+                    "url": "https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "TV8International.tr",
+                    "tvg-logo": "https://i.imgur.com/Nk43HuV.png ",
+                    "group-title": "General",
+                    "description": "TV8 International (720p)",
+                    "url": "http://bozztv.com/gin-dvrfl05/gin-tv8int/index.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "TVA.tr",
+                    "tvg-logo": "https://www.lyngsat.com/logo/tv/tt/tva-tr.png ",
+                    "group-title": "General",
+                    "description": "TV A (720p)",
+                    "url": "https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "YOLTV.de",
+                    "tvg-logo": "https://i.imgur.com/rTBX6lS.png ",
+                    "group-title": "General",
+                    "description": "Yol TV (720p)",
+                    "url": "https://stream.yol.tv:9443/medialive/yol.m3u8"
+                }
+            ]
+        },
+        {
+            "category_name": "Kids",
+            "list_channel": [
+                {
+                    "duration": "-1",
+                    "tvg-id": "BabyFirst.us",
+                    "tvg-logo": "https://i.imgur.com/WxLHBwu.png ",
+                    "group-title": "Kids",
+                    "description": "BabyFirst (1080p)",
+                    "url": "https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "TRTCocuk.tr",
+                    "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png ",
+                    "group-title": "Kids",
+                    "description": "TRT Çocuk (720p)",
+                    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "TRTDiyanetCocuk.tr",
+                    "tvg-logo": "https://i.imgur.com/8PmXz9t.png ",
+                    "group-title": "Kids",
+                    "description": "TRT Diyanet Çocuk (720p)",
+                    "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
+                }
+            ]
+        },
+        {
+            "category_name": "Lifestyle",
+            "list_channel": [
+                {
+                    "duration": "-1",
+                    "tvg-id": "FortunaTV.tr",
+                    "tvg-logo": "https://i.imgur.com/ZbUSlOC.png ",
+                    "group-title": "Lifestyle",
+                    "description": "Fortuna TV (720p)",
+                    "url": "https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8"
+                }
+            ]
+        },
+        {
+            "category_name": "Movies",
+            "list_channel": [
+                {
+                    "duration": "-1",
+                    "tvg-id": "Cine5.tr",
+                    "tvg-logo": "https://i.imgur.com/AmcOAIY.png ",
+                    "group-title": "Movies",
+                    "description": "Cine5 (720p)",
+                    "url": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "GrandCinema.tr",
+                    "tvg-logo": "https://www.lyngsat.com/logo/tv/gg/grand-cinema.png ",
+                    "group-title": "Movies",
+                    "description": "Grand Cinema",
+                    "url": "https://gcinemahls.wns.live/hls/stream.m3u8"
+                }
+            ]
+        },
+        {
+            "category_name": "Music",
+            "list_channel": [
+                {
+                    "duration": "-1",
+                    "tvg-id": "DreamTurk.tr",
+                    "tvg-logo": "https://i.imgur.com/vJ8VaZi.png ",
+                    "group-title": "Music",
+                    "description": "Dream Türk (720p)",
+                    "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "StingrayNaturescape.ca",
+                    "tvg-logo": "https://i.imgur.com/882kd90.png ",
+                    "group-title": "Music",
+                    "description": "Stingray Naturescape (1080p)",
+                    "url": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "FinestTV.de",
+                    "tvg-logo": "https://i.imgur.com/1uoP10V.png ",
+                    "group-title": "Music",
+                    "description": "Finest TV (288p) [Not 24/7]",
+                    "url": "https://media.finest.tv/hls/live.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "KralPopTV.tr",
+                    "tvg-logo": "https://i.imgur.com/ch365lh.png ",
+                    "group-title": "Music",
+                    "description": "KRAL Pop TV (720p)",
+                    "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "KralTV.tr",
+                    "tvg-logo": "https://i.imgur.com/GeEDOPN.png ",
+                    "group-title": "Music",
+                    "description": "KRAL TV (720p)",
+                    "url": "https://dogus-live.daioncdn.net/kraltv/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "PowerDance.tr",
+                    "tvg-logo": "https://i.imgur.com/QpPteBO.png ",
+                    "group-title": "Music",
+                    "description": "Power Dance (1080p)",
+                    "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "PowerLove.tr",
+                    "tvg-logo": "https://i.imgur.com/0RzUswR.png ",
+                    "group-title": "Music",
+                    "description": "Power Love (1080p)",
+                    "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "PowerPlus.tr",
+                    "tvg-logo": "https://i.imgur.com/susAPo6.png ",
+                    "group-title": "Music",
+                    "description": "Power Plus (1080p)",
+                    "url": "https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "PowerTurkAkustik.tr",
+                    "tvg-logo": "https://i.imgur.com/driabBO.png ",
+                    "group-title": "Music",
+                    "description": "Power Türk Akustik (1080p)",
+                    "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "PowerTurkEnIyiler.tr",
+                    "tvg-logo": "https://i.imgur.com/CM2Z9lg.png ",
+                    "group-title": "Music",
+                    "description": "Power Türk En Iyiler (1080p)",
+                    "url": "https://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "PowerTurkSlow.tr",
+                    "tvg-logo": "https://i.imgur.com/tQSoQXW.png ",
+                    "group-title": "Music",
+                    "description": "Power Türk Slow (1080p)",
+                    "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "PowerTurkTaptaze.tr",
+                    "tvg-logo": "https://i.imgur.com/a5nW3HU.png ",
+                    "group-title": "Music",
+                    "description": "Power Türk Taptaze (1080p)",
+                    "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
+                }
+            ]
+        },
+        {
+            "category_name": "News",
+            "list_channel": [
+                {
+                    "duration": "-1",
+                    "tvg-id": "24TV.tr",
+                    "tvg-logo": "https://i.imgur.com/8FO41es.png",
+                    "group-title": "News",
+                    "description": "24 TV",
+                    "url": "https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "360.tr",
+                    "tvg-logo": "https://i.imgur.com/agn47sQ.png",
+                    "group-title": "News",
+                    "description": "360 TV (720p) [Not 24/7]",
+                    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "AHaber.tr",
+                    "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
+                    "group-title": "News",
+                    "description": "A Haber",
+                    "url": "https://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "ATurk.tr",
+                    "tvg-logo": "https://i.imgur.com/je5wQ3G.png",
+                    "group-title": "News",
+                    "description": "A Türk Izmir (360p)",
+                    "url": "https://vdo.digitalbox.xyz:3807/stream/play.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "AnadoluAgency.tr",
+                    "tvg-logo": "https://i.imgur.com/dWElJll.png",
+                    "group-title": "News",
+                    "description": "AA Live (720p) [Not 24/7]",
+                    "url": "https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "AkitTV.tr",
+                    "tvg-logo": "https://i.imgur.com/oGto929.png",
+                    "group-title": "News",
+                    "description": "Akit TV (720p)",
+                    "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "BBNTurk.tr",
+                    "tvg-logo": "https://www.lyngsat.com/logo/tv/bb/bbn-turk-tr.png",
+                    "group-title": "News",
+                    "description": "BBN Türk (1080p) [Not 24/7]",
+                    "url": "https://ythls.armelin.one/channel/UCqq-1-YntK4Gq53Ka9PaVlg.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "ASTV.tr",
+                    "tvg-logo": "https://i.imgur.com/MCUjck8.png",
+                    "group-title": "News",
+                    "description": "Bursa AS TV (900p)",
+                    "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "CanTV.tr",
+                    "tvg-logo": "https://i.imgur.com/oIMtuwB.png",
+                    "group-title": "News",
+                    "description": "Can TV (720p)",
+                    "url": "http://canbroadcast.com:7000/canlican/tv.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "DehaTV.tr",
+                    "tvg-logo": "https://i.imgur.com/Dlsm9XP.png",
+                    "group-title": "News",
+                    "description": "Deha TV (720p) [Geo-blocked]",
+                    "url": "https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "DHA.tr",
+                    "tvg-logo": "https://i.imgur.com/VZhag2x.png",
+                    "group-title": "News",
+                    "description": "DHA (720p) [Not 24/7]",
+                    "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "DimTV.tr",
+                    "tvg-logo": "https://i.imgur.com/X4QFDhk.png",
+                    "group-title": "News",
+                    "description": "DİM TV (720p) [Geo-blocked]",
+                    "url": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "Ekoturk.tr",
+                    "tvg-logo": "https://i.imgur.com/TMTnMI3.png",
+                    "group-title": "News",
+                    "description": "Ekoturk",
+                    "url": "https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "FinansTurkTV.tr",
+                    "tvg-logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
+                    "group-title": "News",
+                    "description": "Finans Turk TV (720p)",
+                    "url": "https://vdo.digitalbox.xyz:3588/live/finansturktvlive.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -608,7 +706,7 @@
                     "tvg-id": "HaberturkTV.tr",
                     "tvg-logo": "https://i.imgur.com/6Tw3rUp.png",
                     "group-title": "News",
-                    "description": "Habert\u00fcrk TV (1080p)",
+                    "description": "Habertürk TV (1080p)",
                     "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8"
                 },
                 {
@@ -621,27 +719,104 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "HunatTV.tr",
-                    "tvg-logo": "https://i.imgur.com/NrxHGnb.png ",
-                    "group-title": "General",
-                    "description": "Hunat TV (720p) [Geo-blocked]",
-                    "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8"
+                    "tvg-id": "KanalS.tr",
+                    "tvg-logo": "https://i.imgur.com/DN6gdg2.png",
+                    "group-title": "News",
+                    "description": "Kanal S (720p)",
+                    "url": "https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8"
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "IBBTV.tr",
-                    "tvg-logo": "https://i.imgur.com/aXxAz84.png ",
-                    "group-title": "General",
-                    "description": "IBB TV (1080p)",
-                    "url": "http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8"
+                    "tvg-id": "LifeTV.tr",
+                    "tvg-logo": "https://i.imgur.com/lWeJxm0.png",
+                    "group-title": "News",
+                    "description": "Life TV (720p) [Not 24/7]",
+                    "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "IcelTV.tr",
-                    "tvg-logo": "https://i.imgur.com/CGwImKv.png ",
-                    "group-title": "Undefined",
-                    "description": "Icel TV (720p) [Not 24/7]",
-                    "url": "http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8"
+                    "tvg-id": "MedyaHaber.tr",
+                    "tvg-logo": "https://i.imgur.com/l1E2Pha.png",
+                    "group-title": "News",
+                    "description": "Medya Haber (1080p) [Not 24/7]",
+                    "url": "https://ythls.armelin.one/channel/UC_KlNwS1QQ9QMPRg9dGNHNw.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "OnMedyaTV.tr",
+                    "tvg-logo": "https://i.imgur.com/thvk3Py.png",
+                    "group-title": "News",
+                    "description": "ON Medya Haber (720p) [Geo-blocked]",
+                    "url": "http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "TGRTHaber.tr",
+                    "tvg-logo": "https://i.imgur.com/PrxwKDw.png",
+                    "group-title": "News",
+                    "description": "TGRT Haber (720p)",
+                    "url": "https://canli.tgrthaber.com/tgrt.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "TRTArabi.tr",
+                    "tvg-logo": "https://i.imgur.com/dEfI2M9.png",
+                    "group-title": "News",
+                    "description": "TRT Arabi (1080p) [Not 24/7]",
+                    "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "TRTHaber.tr",
+                    "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",
+                    "group-title": "News",
+                    "description": "TRT Haber (720p)",
+                    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "TurkHaberTV.tr",
+                    "tvg-logo": "https://i.imgur.com/2AcRKdL.png",
+                    "group-title": "News",
+                    "description": "TürkHaber (720p)",
+                    "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
+                }
+            ]
+        },
+        {
+            "category_name": "Religious",
+            "list_channel": [
+                {
+                    "duration": "-1",
+                    "tvg-id": "AlZahraTVTurkic.tr",
+                    "tvg-logo": "https://i.imgur.com/QEHKGnG.png ",
+                    "group-title": "Religious",
+                    "description": "Al-Zahra TV Turkic (720p) [Not 24/7]",
+                    "url": "https://live.al-zahratv.com/live/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "DiyanetTV.tr",
+                    "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png ",
+                    "group-title": "Religious",
+                    "description": "Diyanet TV (1080p)",
+                    "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "DiyarTV.tr",
+                    "tvg-logo": "https://i.imgur.com/qWkHjRA.png ",
+                    "group-title": "Religious",
+                    "description": "Diyar TV (720p)",
+                    "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "DostTV.tr",
+                    "tvg-logo": "https://upload.wikimedia.org/wikipedia/en/f/f6/Dost_TV.jpg ",
+                    "group-title": "Religious",
+                    "description": "Dost TV (576p)",
+                    "url": "https://dost.stream.emsal.im/tv/live.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -650,6 +825,237 @@
                     "group-title": "Religious",
                     "description": "Imam Hussein TV 5 (1080p) [Not 24/7]",
                     "url": "https://mn-nl.mncdn.com/alzahra/alzahra_hd.smil/playlist.m3u8"
+                }
+            ]
+        },
+        {
+            "category_name": "Sports",
+            "list_channel": [
+                {
+                    "duration": "-1",
+                    "tvg-id": "ASpor.tr",
+                    "tvg-logo": "https://i.imgur.com/ZhkZzLf.png",
+                    "group-title": "Sports",
+                    "description": "A Spor (1080p) [Not 24/7]",
+                    "url": "https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "SportsTV.tr",
+                    "tvg-logo": "https://i.imgur.com/tGTVcVe.jpg",
+                    "group-title": "Sports",
+                    "description": "Sports TV (720p) [Geo-blocked]",
+                    "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "GSTV.tr",
+                    "tvg-logo": "https://i.imgur.com/fC3KuwT.jpg",
+                    "group-title": "Sports",
+                    "description": "GSTV [Geo-blocked]",
+                    "url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "NTVSpor.tr",
+                    "tvg-logo": "https://i.imgur.com/5pvsIsL.png",
+                    "group-title": "Sports",
+                    "description": "NTV Spor",
+                    "url": "http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "TRTSpor.tr",
+                    "tvg-logo": "https://i.imgur.com/6tv0zxh.png",
+                    "group-title": "Sports",
+                    "description": "TRT Spor (1080p) [Geo-blocked]",
+                    "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "TRTSporYildiz.tr",
+                    "tvg-logo": "https://i.imgur.com/MJPoj3j.png",
+                    "group-title": "Sports",
+                    "description": "TRT Spor Yildiz (1080p) [Geo-blocked]",
+                    "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
+                }
+            ]
+        },
+        {
+            "category_name": "Travel",
+            "list_channel": [
+                {
+                    "duration": "-1",
+                    "tvg-id": "RTGTV.ru",
+                    "tvg-logo": "https://i.imgur.com/ZMKPAho.png ",
+                    "group-title": "Travel",
+                    "description": "RTG (1080p) [Geo-blocked]",
+                    "url": "https://strm.yandex.ru/kal/rtg/rtg0.m3u8"
+                }
+            ]
+        },
+        {
+            "category_name": "Undefined",
+            "list_channel": [
+                {
+                    "duration": "-1",
+                    "tvg-id": "AfyonTurkTV.tr",
+                    "tvg-logo": "https://i.ibb.co/tXbD8Sz/8A1HOMZ.png ",
+                    "group-title": "Undefined",
+                    "description": "Afyon Türk TV (720p)",
+                    "url": "https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "ArtiTV.de",
+                    "tvg-logo": "https://i.imgur.com/j4SlXi7.png ",
+                    "group-title": "Undefined",
+                    "description": "Artı TV (1080p) [Not 24/7]",
+                    "url": "https://ythls.armelin.one/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "ATVAvrupa.tr",
+                    "tvg-logo": "https://i.imgur.com/0tm3tui.png ",
+                    "group-title": "Undefined",
+                    "description": "ATV Avrupa (1080p) [Not 24/7]",
+                    "url": "https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "BenguturkTV.tr",
+                    "tvg-logo": "https://i.imgur.com/p3ON1oX.png ",
+                    "group-title": "Undefined",
+                    "description": "BENGÜTÜRK TV (720p) [Not 24/7]",
+                    "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "BeratTV.tr",
+                    "tvg-logo": "https://i.imgur.com/BxxH8wE.png ",
+                    "group-title": "Undefined",
+                    "description": "Berat TV (720p) [Not 24/7]",
+                    "url": "https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "BesiktasWebTV.tr",
+                    "tvg-logo": "https://i.ibb.co/bRhnM6W/qti5aea.png ",
+                    "group-title": "Undefined",
+                    "description": "Beşiktaş Web TV (360p)",
+                    "url": "https://s01.vpis.io/besiktas/besiktas.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "BeyazTV.tr",
+                    "tvg-logo": "https://i.imgur.com/uykIdML.png ",
+                    "group-title": "Undefined",
+                    "description": "Beyaz TV (720p) [Not 24/7]",
+                    "url": "https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "BeykentTV.tr",
+                    "tvg-logo": "https://i.imgur.com/Zv65ns5.png ",
+                    "group-title": "Undefined",
+                    "description": "Beykent TV (720p)",
+                    "url": "https://yayin30.haber100.com/live/beykenttv/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "BirTV.tr",
+                    "tvg-logo": "https://birtv.tv/assets/upload/637f83951df60.png ",
+                    "group-title": "Undefined",
+                    "description": "Bir TV (720p)",
+                    "url": "https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "BizimevTV.tr",
+                    "tvg-logo": "https://i.imgur.com/eJa6sFY.png ",
+                    "group-title": "Undefined",
+                    "description": "Bizimev TV (720p)",
+                    "url": "https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "BRT1.cy",
+                    "tvg-logo": "https://i.imgur.com/gOPAi2c.png ",
+                    "group-title": "Undefined",
+                    "description": "BRT 1 (720p) [Not 24/7]",
+                    "url": "https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "BRT2.cy",
+                    "tvg-logo": "https://i.imgur.com/t5kbIuj.png ",
+                    "group-title": "Undefined",
+                    "description": "BRT 2 (720p)",
+                    "url": "http://bozztv.com/gin-36bay3/gt-kibrisbrt3/index.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "BRTV.tr",
+                    "tvg-logo": "https://i.imgur.com/U3qlEAp.png ",
+                    "group-title": "Undefined",
+                    "description": "BRTV (720p) [Geo-blocked]",
+                    "url": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "BursaTV.tr",
+                    "tvg-logo": "https://i.imgur.com/9cl1MR8.png ",
+                    "group-title": "Undefined",
+                    "description": "Bursa TV (720p) [Not 24/7]",
+                    "url": "https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "EmTV.tr",
+                    "tvg-logo": "https://i.imgur.com/pHlRi8m.jpg ",
+                    "group-title": "Undefined",
+                    "description": "Em TV (486p)",
+                    "url": "https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "ESTV.tr",
+                    "tvg-logo": "https://i.imgur.com/epAEBrp.png ",
+                    "group-title": "Undefined",
+                    "description": "ES TV (720p)",
+                    "url": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "ETVManisa.tr",
+                    "tvg-logo": "https://i.ibb.co/QKXtdkz/sOd3INg.png ",
+                    "group-title": "Undefined",
+                    "description": "ETV Manisa (1080p) [Not 24/7]",
+                    "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "FlashTV.tr",
+                    "tvg-logo": "https://i.imgur.com/L0NHKBM.png ",
+                    "group-title": "Undefined",
+                    "description": "Flash TV (720p)",
+                    "url": "https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "TVGunes.cy",
+                    "tvg-logo": "https://i.imgur.com/XmlXofJ.png ",
+                    "group-title": "Undefined",
+                    "description": "GÜNEŞ TV (576p) [Not 24/7]",
+                    "url": "https://sc-kuzeykibrissmarttv.ercdn.net/gunestv/bant1/playlist.m3u8"
+                },
+                {
+                    "duration": "-1",
+                    "tvg-id": "IcelTV.tr",
+                    "tvg-logo": "https://i.imgur.com/CGwImKv.png ",
+                    "group-title": "Undefined",
+                    "description": "Icel TV (720p) [Not 24/7]",
+                    "url": "http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -741,14 +1147,6 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "KANAL58.tr",
-                    "tvg-logo": "https://i.imgur.com/Rgc66sv.png ",
-                    "group-title": "General",
-                    "description": "KANAL 58 (1080p) [Not 24/7]",
-                    "url": "https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "Kanal68.tr",
                     "tvg-logo": "https://i.imgur.com/5y7K9SS.png ",
                     "group-title": "Undefined",
@@ -805,14 +1203,6 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "KanalS.tr",
-                    "tvg-logo": "https://i.imgur.com/DN6gdg2.png",
-                    "group-title": "News",
-                    "description": "Kanal S (720p)",
-                    "url": "https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "KanalSim.cy",
                     "tvg-logo": "https://i.imgur.com/UHYJURw.png ",
                     "group-title": "Undefined",
@@ -864,7 +1254,7 @@
                     "tvg-id": "KentTurk.tr",
                     "tvg-logo": "https://i.imgur.com/FQKPjsm.png ",
                     "group-title": "Undefined",
-                    "description": "Kent T\u00fcrk TV (1080p) [Not 24/7]",
+                    "description": "Kent Türk TV (1080p) [Not 24/7]",
                     "url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8"
                 },
                 {
@@ -872,7 +1262,7 @@
                     "tvg-id": "KibrisGencTV.cy",
                     "tvg-logo": "https://i.imgur.com/eBdQn9h.png ",
                     "group-title": "Undefined",
-                    "description": "Kibris Gen\u00e7 TV (720p) [Not 24/7]",
+                    "description": "Kibris Genç TV (720p) [Not 24/7]",
                     "url": "https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8"
                 },
                 {
@@ -909,22 +1299,6 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "KralPopTV.tr",
-                    "tvg-logo": "https://i.imgur.com/ch365lh.png ",
-                    "group-title": "Music",
-                    "description": "KRAL Pop TV (720p)",
-                    "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "KralTV.tr",
-                    "tvg-logo": "https://i.imgur.com/GeEDOPN.png ",
-                    "group-title": "Music",
-                    "description": "KRAL TV (720p)",
-                    "url": "https://dogus-live.daioncdn.net/kraltv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "KRT.tr",
                     "tvg-logo": "https://i.imgur.com/9ZKqdQJ.png ",
                     "group-title": "Undefined",
@@ -936,7 +1310,7 @@
                     "tvg-id": "KudusTV.tr",
                     "tvg-logo": "https://i.imgur.com/lwRA84B.png ",
                     "group-title": "Undefined",
-                    "description": "Kud\u00fcs TV (480p) [Geo-blocked]",
+                    "description": "Kudüs TV (480p) [Geo-blocked]",
                     "url": "https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8"
                 },
                 {
@@ -944,16 +1318,8 @@
                     "tvg-id": "LalegulTV.tr",
                     "tvg-logo": "https://i.imgur.com/wwCysFs.png ",
                     "group-title": "Undefined",
-                    "description": "Laleg\u00fcl TV (720p) [Not 24/7]",
+                    "description": "Lalegül TV (720p) [Not 24/7]",
                     "url": "http://lalegultv.netmedya.net/hls/lalegultv.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "LifeTV.tr",
-                    "tvg-logo": "https://i.imgur.com/lWeJxm0.png",
-                    "group-title": "News",
-                    "description": "Life TV (720p) [Not 24/7]",
-                    "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -973,14 +1339,6 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "MedyaHaber.tr",
-                    "tvg-logo": "https://i.imgur.com/l1E2Pha.png",
-                    "group-title": "News",
-                    "description": "Medya Haber (1080p) [Not 24/7]",
-                    "url": "https://ythls.armelin.one/channel/UC_KlNwS1QQ9QMPRg9dGNHNw.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "MeltemTV.tr",
                     "tvg-logo": "https://i.imgur.com/C3m6w5S.png ",
                     "group-title": "Undefined",
@@ -997,14 +1355,6 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "MilyonTV.tr",
-                    "tvg-logo": "https://i.imgur.com/lEIFDwo.png ",
-                    "group-title": "Entertainment",
-                    "description": "Milyon TV (720p)",
-                    "url": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "MinikaGo.tr",
                     "tvg-logo": "https://i.imgur.com/qIoipDq.png ",
                     "group-title": "Undefined",
@@ -1016,7 +1366,7 @@
                     "tvg-id": "MTurkTV.tr",
                     "tvg-logo": "https://i.imgur.com/xj1gvrq.png ",
                     "group-title": "Undefined",
-                    "description": "MT\u00fcrk TV (1080p)",
+                    "description": "MTürk TV (1080p)",
                     "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8"
                 },
                 {
@@ -1061,14 +1411,6 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "NTVSpor.tr",
-                    "tvg-logo": "https://i.imgur.com/5pvsIsL.png",
-                    "group-title": "Sports",
-                    "description": "NTV Spor",
-                    "url": "http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "Number1Ask.tr",
                     "tvg-logo": "https://i.imgur.com/slwbux7.png ",
                     "group-title": "Undefined",
@@ -1096,7 +1438,7 @@
                     "tvg-id": "Number1Turk.tr",
                     "tvg-logo": "https://i.imgur.com/18zjk3q.png ",
                     "group-title": "Undefined",
-                    "description": "Number 1 T\u00fcrk (720p)",
+                    "description": "Number 1 Türk (720p)",
                     "url": "https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8"
                 },
                 {
@@ -1112,7 +1454,7 @@
                     "tvg-id": "OlayTurkTV.tr",
                     "tvg-logo": "https://i.imgur.com/e9ca6gc.png ",
                     "group-title": "Undefined",
-                    "description": "Olay T\u00fcrk TV Kayseri (720p) [Geo-blocked]",
+                    "description": "Olay Türk TV Kayseri (720p) [Geo-blocked]",
                     "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8"
                 },
                 {
@@ -1133,18 +1475,10 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "OnMedyaTV.tr",
-                    "tvg-logo": "https://i.imgur.com/thvk3Py.png",
-                    "group-title": "News",
-                    "description": "ON Medya Haber (720p) [Geo-blocked]",
-                    "url": "http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "OncuTV.tr",
                     "tvg-logo": "https://i.imgur.com/TGPNYrD.jpg ",
                     "group-title": "Undefined",
-                    "description": "\u00d6nc\u00fc TV (1024p) [Not 24/7]",
+                    "description": "Öncü TV (1024p) [Not 24/7]",
                     "url": "https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8"
                 },
                 {
@@ -1154,70 +1488,6 @@
                     "group-title": "Undefined",
                     "description": "Pamukkale TV (614p)",
                     "url": "http://ms1.sanlisoy.com:1935/pamukkaletv/pamukkaletv/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "PersianaTurkiye.fr",
-                    "tvg-logo": "https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png ",
-                    "group-title": "Entertainment",
-                    "description": "Persiana Turkiye",
-                    "url": "https://turkhls.persiana.live/hls/stream.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "PowerDance.tr",
-                    "tvg-logo": "https://i.imgur.com/QpPteBO.png ",
-                    "group-title": "Music",
-                    "description": "Power Dance (1080p)",
-                    "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "PowerLove.tr",
-                    "tvg-logo": "https://i.imgur.com/0RzUswR.png ",
-                    "group-title": "Music",
-                    "description": "Power Love (1080p)",
-                    "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "PowerPlus.tr",
-                    "tvg-logo": "https://i.imgur.com/susAPo6.png ",
-                    "group-title": "Music",
-                    "description": "Power Plus (1080p)",
-                    "url": "https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "PowerTurkAkustik.tr",
-                    "tvg-logo": "https://i.imgur.com/driabBO.png ",
-                    "group-title": "Music",
-                    "description": "Power T\u00fcrk Akustik (1080p)",
-                    "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "PowerTurkEnIyiler.tr",
-                    "tvg-logo": "https://i.imgur.com/CM2Z9lg.png ",
-                    "group-title": "Music",
-                    "description": "Power T\u00fcrk En Iyiler (1080p)",
-                    "url": "https://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "PowerTurkSlow.tr",
-                    "tvg-logo": "https://i.imgur.com/tQSoQXW.png ",
-                    "group-title": "Music",
-                    "description": "Power T\u00fcrk Slow (1080p)",
-                    "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "PowerTurkTaptaze.tr",
-                    "tvg-logo": "https://i.imgur.com/a5nW3HU.png ",
-                    "group-title": "Music",
-                    "description": "Power T\u00fcrk Taptaze (1080p)",
-                    "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -1253,18 +1523,10 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "RTGTV.ru",
-                    "tvg-logo": "https://i.imgur.com/ZMKPAho.png ",
-                    "group-title": "Travel",
-                    "description": "RTG (1080p) [Geo-blocked]",
-                    "url": "https://strm.yandex.ru/kal/rtg/rtg0.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "SariyerTV.tr",
                     "tvg-logo": "https://i.imgur.com/lfHVabz.png ",
                     "group-title": "Undefined",
-                    "description": "Sar\u0131yer TV (360p)",
+                    "description": "Sarıyer TV (360p)",
                     "url": "https://s01.vpis.io/sariyer/sariyer.m3u8"
                 },
                 {
@@ -1272,7 +1534,7 @@
                     "tvg-id": "Sat7Turk.cy",
                     "tvg-logo": "https://i.imgur.com/cKQIK4i.png ",
                     "group-title": "Undefined",
-                    "description": "Sat7 T\u00fcrk (1080p)",
+                    "description": "Sat7 Türk (1080p)",
                     "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8"
                 },
                 {
@@ -1280,7 +1542,7 @@
                     "tvg-id": "BricveSatrancTV.tr",
                     "tvg-logo": "https://i.imgur.com/TXDV1ty.png ",
                     "group-title": "Undefined",
-                    "description": "Satran\u00e7 TV (480p) [Not 24/7]",
+                    "description": "Satranç TV (480p) [Not 24/7]",
                     "url": "http://139.162.182.79/live/test/index.m3u8"
                 },
                 {
@@ -1298,14 +1560,6 @@
                     "group-title": "Undefined",
                     "description": "Sinop Yildiz TV (360p)",
                     "url": "https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "SozcuTV.tr",
-                    "tvg-logo": "https://i.imgur.com/BxpdvsG.png ",
-                    "group-title": "General",
-                    "description": "Sozcu Televizyonu (1080p) [Not 24/7]",
-                    "url": "https://ythls.armelin.one/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -1381,42 +1635,10 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "TGRTBelgesel.tr",
-                    "tvg-logo": "https://i.imgur.com/VwWTnf0.png ",
-                    "group-title": "General",
-                    "description": "TGRT Belgesel TV (576p)",
-                    "url": "https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "TGRTEurope.tr",
-                    "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png ",
-                    "group-title": "General",
-                    "description": "TGRT Europe (1080p)",
-                    "url": "https://canli.tgrteu.com/tgrteu.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "TGRTHaber.tr",
-                    "tvg-logo": "https://i.imgur.com/PrxwKDw.png",
-                    "group-title": "News",
-                    "description": "TGRT Haber (720p)",
-                    "url": "https://canli.tgrthaber.com/tgrt.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "Tivi6.tr",
-                    "tvg-logo": "https://i.imgur.com/Mbi0jbz.png ",
-                    "group-title": "General",
-                    "description": "Tivi 6 (720p)",
-                    "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "tiviTURK.de",
                     "tvg-logo": "https://i.ibb.co/9TDs8q8/IFE6LHH.jpg ",
                     "group-title": "Undefined",
-                    "description": "tiviT\u00dcRK (720p) [Not 24/7]",
+                    "description": "tiviTÜRK (720p) [Not 24/7]",
                     "url": "https://stream.tiviturk.de/live/tiviturk.m3u8"
                 },
                 {
@@ -1445,14 +1667,6 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "TrakyaTurk.tr",
-                    "tvg-logo": "https://trakyaturktv.com/uploads/library/2024/04/unnamed1.jpg ",
-                    "group-title": "General",
-                    "description": "Trakya T\u00fcrk TV (720p)",
-                    "url": "https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "TRT1.tr",
                     "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png ",
                     "group-title": "Undefined",
@@ -1477,14 +1691,6 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "TRTArabi.tr",
-                    "tvg-logo": "https://i.imgur.com/dEfI2M9.png",
-                    "group-title": "News",
-                    "description": "TRT Arabi (1080p) [Not 24/7]",
-                    "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "TRTAvaz.tr",
                     "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png ",
                     "group-title": "Undefined",
@@ -1498,22 +1704,6 @@
                     "group-title": "Undefined",
                     "description": "TRT Belgesel (720p)",
                     "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "TRTCocuk.tr",
-                    "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png ",
-                    "group-title": "Kids",
-                    "description": "TRT \u00c7ocuk (720p)",
-                    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "TRTDiyanetCocuk.tr",
-                    "tvg-logo": "https://i.imgur.com/8PmXz9t.png ",
-                    "group-title": "Kids",
-                    "description": "TRT Diyanet \u00c7ocuk (720p)",
-                    "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -1541,35 +1731,11 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "TRTHaber.tr",
-                    "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",
-                    "group-title": "News",
-                    "description": "TRT Haber (720p)",
-                    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "TRTMuzik.tr",
                     "tvg-logo": "https://i.imgur.com/JgUzRH8.png ",
                     "group-title": "Undefined",
-                    "description": "TRT M\u00fczik (720p)",
+                    "description": "TRT Müzik (720p)",
                     "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "TRTSpor.tr",
-                    "tvg-logo": "https://i.imgur.com/6tv0zxh.png",
-                    "group-title": "Sports",
-                    "description": "TRT Spor (1080p) [Geo-blocked]",
-                    "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "TRTSporYildiz.tr",
-                    "tvg-logo": "https://i.imgur.com/MJPoj3j.png",
-                    "group-title": "Sports",
-                    "description": "TRT Spor Yildiz (1080p) [Geo-blocked]",
-                    "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -1578,14 +1744,6 @@
                     "group-title": "Undefined",
                     "description": "TRT Turk",
                     "url": "https://trtturk.blutv.com/blutv_trtturk2/live.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "TurkHaberTV.tr",
-                    "tvg-logo": "https://i.imgur.com/2AcRKdL.png",
-                    "group-title": "News",
-                    "description": "T\u00fcrkHaber (720p)",
-                    "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -1618,14 +1776,6 @@
                     "group-title": "Undefined",
                     "description": "TV 8.5 (720p)",
                     "url": "http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "TV8International.tr",
-                    "tvg-logo": "https://i.imgur.com/Nk43HuV.png ",
-                    "group-title": "General",
-                    "description": "TV8 International (720p)",
-                    "url": "http://bozztv.com/gin-dvrfl05/gin-tv8int/index.m3u8"
                 },
                 {
                     "duration": "-1",
@@ -1677,14 +1827,6 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "TVA.tr",
-                    "tvg-logo": "https://www.lyngsat.com/logo/tv/tt/tva-tr.png ",
-                    "group-title": "General",
-                    "description": "TV A (720p)",
-                    "url": "https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "TVDen.tr",
                     "tvg-logo": "https://i.imgur.com/Uhg95Ze.png ",
                     "group-title": "Undefined",
@@ -1712,7 +1854,7 @@
                     "tvg-id": "UcanKusTV.tr",
                     "tvg-logo": "https://i.imgur.com/4j8WrIu.png ",
                     "group-title": "Undefined",
-                    "description": "U\u00e7anKu\u015f TV (720p)",
+                    "description": "UçanKuş TV (720p)",
                     "url": "https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8"
                 },
                 {
@@ -1720,7 +1862,7 @@
                     "tvg-id": "UlkeTV.tr",
                     "tvg-logo": "https://i.imgur.com/wdWR7Qk.png ",
                     "group-title": "Undefined",
-                    "description": "\u00dclke TV (720p)",
+                    "description": "Ülke TV (720p)",
                     "url": "https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8"
                 },
                 {
@@ -1736,7 +1878,7 @@
                     "tvg-id": "UniversiteTV.tr",
                     "tvg-logo": "https://i.imgur.com/KeauaSh.png ",
                     "group-title": "Undefined",
-                    "description": "\u00dcniversite TV (720p) [Not 24/7]",
+                    "description": "Üniversite TV (720p) [Not 24/7]",
                     "url": "https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8"
                 },
                 {
@@ -1752,7 +1894,7 @@
                     "tvg-id": "UUTV1.tr",
                     "tvg-logo": "https://i.imgur.com/H5kOQz5.png ",
                     "group-title": "Undefined",
-                    "description": "\u00dc\u00dc TV 1 (1080p)",
+                    "description": "ÜÜ TV 1 (1080p)",
                     "url": "https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8"
                 },
                 {
@@ -1760,7 +1902,7 @@
                     "tvg-id": "UUTV2.tr",
                     "tvg-logo": "https://i.imgur.com/FjFjdY5.png ",
                     "group-title": "Undefined",
-                    "description": "\u00dc\u00dc TV \u00dcsk\u00fcdar \u00dcniversitesi TV (1080p) [Not 24/7]",
+                    "description": "ÜÜ TV Üsküdar Üniversitesi TV (1080p) [Not 24/7]",
                     "url": "https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8"
                 },
                 {
@@ -1789,91 +1931,11 @@
                 },
                 {
                     "duration": "-1",
-                    "tvg-id": "WomanTV.tr",
-                    "tvg-logo": "https://i.imgur.com/f2zGoV3.png ",
-                    "group-title": "Culture;Education;Lifestyle",
-                    "description": "Woman TV (1080p)",
-                    "url": "https://embedlp.becdn.net/womantv.m3u8"
-                },
-                {
-                    "duration": "-1",
                     "tvg-id": "WorldTurkTV.tr",
                     "tvg-logo": "https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_151.png ",
                     "group-title": "Undefined",
                     "description": "World Turk TV (1080p)",
                     "url": "https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "YOLTV.de",
-                    "tvg-logo": "https://i.imgur.com/rTBX6lS.png ",
-                    "group-title": "General",
-                    "description": "Yol TV (720p)",
-                    "url": "https://stream.yol.tv:9443/medialive/yol.m3u8"
-                }
-            ],
-            "Movies": [
-                {
-                    "duration": "-1",
-                    "tvg-id": "GrandCinema.tr",
-                    "tvg-logo": "https://www.lyngsat.com/logo/tv/gg/grand-cinema.png ",
-                    "group-title": "Movies",
-                    "description": "Grand Cinema",
-                    "url": "https://gcinemahls.wns.live/hls/stream.m3u8"
-                }
-            ],
-            "Entertainment": [
-                {
-                    "duration": "-1",
-                    "tvg-id": "KanalDDrama.tr",
-                    "tvg-logo": "https://i.imgur.com/WIeZMKT.png ",
-                    "group-title": "Series",
-                    "description": "Kanal D Drama (1080p)",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "ShowTurk.tr",
-                    "tvg-logo": "https://i.imgur.com/fdZpGDj.png ",
-                    "group-title": "Undefined",
-                    "description": "Show Turk",
-                    "url": "https://showturk.blutv.com/blutv_showturk2/live.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "ShowTV.tr",
-                    "tvg-logo": "https://i.imgur.com/1l7SCCu.png ",
-                    "group-title": "Undefined",
-                    "description": "Show TV",
-                    "url": "http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8"
-                }
-            ],
-            "Documentary": [
-                {
-                    "duration": "-1",
-                    "tvg-id": "LoveNature.ca",
-                    "tvg-logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png ",
-                    "group-title": "Outdoor",
-                    "description": "Love Nature (1080p)",
-                    "url": "https://lnc-love-nature.tubi.video/playlist.m3u8"
-                },
-                {
-                    "duration": "-1",
-                    "tvg-id": "StingrayNaturescape.ca",
-                    "tvg-logo": "https://i.imgur.com/882kd90.png ",
-                    "group-title": "Music",
-                    "description": "Stingray Naturescape (1080p)",
-                    "url": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8"
-                }
-            ],
-            "Sports": [
-                {
-                    "duration": "-1",
-                    "tvg-id": "SportsTV.tr",
-                    "tvg-logo": "https://i.imgur.com/tGTVcVe.jpg",
-                    "group-title": "Sports",
-                    "description": "Sports TV (720p) [Geo-blocked]",
-                    "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
                 }
             ]
         }
