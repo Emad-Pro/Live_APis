@@ -7,13 +7,13 @@
     },
     {
       "title": "القنوات المغربية",
-      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/turk.jpg",
+      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
       "link":"moroco_channel_list.json"
     },
         {
       "title": "القنوات التركية",
       "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":"turk_channel_list.json"
+      "link":"turk.json"
     },
         {
       "title": "القنوات العالمية",
