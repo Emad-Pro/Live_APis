@@ -1,24 +1,24 @@
 {
-  "menu": [
-    {
-      "title": "القنوات العربية",
-      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":"arab_channel_list.json"
-    },
-    {
-      "title": "القنوات المغربية",
-      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":"moroco_channel_list.json"
-    },
+    "menu": [
         {
-      "title": "القنوات التركية",
-      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":"turk.json"
-    },
+            "title": "القنوات العربية",
+            "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+            "link": "arab_channel_list.json"
+        },
         {
-      "title": "القنوات العالمية",
-      "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-      "link":"inter_channel_list.json"
-    },
-  ]
+            "title": "القنوات المغربية",
+            "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+            "link": "moroco_channel_list.json"
+        },
+        {
+            "title": "القنوات التركية",
+            "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+            "link": "turk.json"
+        },
+        {
+            "title": "القنوات العالمية",
+            "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
+            "link": "inter_channel_list.json"
+        }
+    ]
 }
