@@ -1,0 +1,327 @@
+{
+    "channel": [
+        {
+            "category_name": "FRANCE",
+            "list_channel": [
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEIN SPORTS  5 MAX HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88287.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEIN SPORTS 1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88280.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEIN SPORTS 1 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88281.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FE:BEIN SPORTS 10 MAX HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88294.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEIN SPORTS 2 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88282.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEIN SPORTS 2 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88283.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEIN SPORTS 3 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88284.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEIN SPORTS 3 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88285.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEIN SPORTS 6 MAX HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88288.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEIN SPORTS 7 MAX HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88289.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEIN SPORTS 8 MAX HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88290.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FE:BEIN SPORTS 9 MAX HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88292.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEINSPORT 1 HQ",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88279.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEINSPORT 4 MAX HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88286.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEINSPORT MAX 10 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88295.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEINSPORT MAX 8 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88291.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:BEINSPORT MAX 9 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88293.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:CANAL + FOOT UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88253.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:CANAL + SPORT 360 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88254.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:CANAL + SPORT HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88255.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:CANAL + SPORT UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88256.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:EQUIDIA LIVE HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88316.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:EUROSPORT 1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88259.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:EUROSPORT 1 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88260.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:EUROSPORT 2 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88261.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:EUROSPORT 2 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88262.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:FOOT +24 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88310.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:GOLF+ UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88315.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:INFOSPORT + HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88257.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:INFOSPORT + UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88258.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:L'EQUIPE 21 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88311.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:L'EQUIPE 21 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88312.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:MULTISPORTS 1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88304.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:MULTISPORTS 2 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88305.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:MULTISPORTS 3 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88306.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:MULTISPORTS 4 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88307.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:MULTISPORTS 5 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88308.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:MULTISPORTS 6 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88309.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT 1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88263.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT 1 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88264.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT 2 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88265.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT 2 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88266.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT 3 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88267.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT 3 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88268.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT 4 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88269.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT 4 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88270.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT 5 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88271.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT 6 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88273.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT LIVE 10 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88277.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT LIVE 11 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88278.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT LIVE 5 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88272.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT LIVE 7 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88274.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ulkeler/france.png",
+                    "group-title": "FRANCE",
+                    "description": "FR:RMC SPORT LIVE 8 UHD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88275.m3u8"
+                }
+            ]
+        }
+    ]
+}

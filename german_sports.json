@@ -1,0 +1,789 @@
+{
+    "channel": [
+        {
+            "category_name": "DEUTSCHE SPORT",
+            "list_channel": [
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/ek2/deutshchesport.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "***** DEUTSCHE SPORT *****",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88950.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/dazn1.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:Fußball 1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/98764.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/dazn2.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:Fußball 2 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/98765.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skybundesliga.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY BUNDESLIGA 1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88764.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skybundesliga.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY BUNDESLIGA 1 HQ",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88763.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skybundesliga2.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY BUNDESLIGA 2 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88765.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skybundeliga3.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY BUNDESLIGA 3 HD (LIVE EVENT)",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88766.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skybundesliga4.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY BUNDESLIGA 4 HD (LIVE EVENT)",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88767.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/sklybundesliga5.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY BUNDESLIGA 5 HD (LIVE EVENT)",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88768.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skybnsgaliga6.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY BUNDESLIGA 6 HD (LIVE EVENT)",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88769.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skybundesliga7.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY BUNDESLIGA 7 HD (LIVE EVENT)",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88770.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skybundesliga8.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY BUNDESLIGA 8 HD (LIVE EVENT)",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88771.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skybundesliga9.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY BUNDESLIGA 9 HD (LIVE EVENT)",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88772.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skybundesliga10.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY BUNDESLIGA 10 HD (LIVE EVENT)",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88773.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skysportnwes.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT NEWS HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88780.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skysrpot.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT 1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88781.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skysport2.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT 2 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88782.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skysport3.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT 3 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88783.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skysport4.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT 4 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88784.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/skysport5.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT 5 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88785.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/skysport6.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT 6 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88786.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/skysport7.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT 7 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88787.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skysport8.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT 8 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88788.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skysport9.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT 9 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88789.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skysport10.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT 10 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88790.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skypremier.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT PREMIERE LEAGUE HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88779.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skysporrttopevent.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT TOP EVENT HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88778.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek/sjysportsf1.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT F1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88774.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skygolf.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT GOLF HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88776.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skymix.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT MIX HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88775.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/skytenis.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SKY SPORT TENNIS HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88777.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i.imgur.com/Tsjt7v9.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SPORT 1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/94951.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/sport1.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SPORT 1+ HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88762.m3u8"
+                },
+                {
+                    "tvg-logo": "",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:UFC FIGHT PASS",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/101295.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek/edge.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EDGE SPORT HD+",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90016.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek/esports1.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:eSPORTS1 HD+",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90015.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek/motorvisiontv.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MOTOR VISION HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88760.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek/extremesporst.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EXTREME SPORTS HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90039.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek/bayerntv.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:FC BAYERN TV HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90034.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/eksik/fussballtv1.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:FUSSBALL.TV 1 FIFA WM 2022",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90040.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek/morethansports.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MORE THAN SPORTS TV HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90036.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/eksik/mssport.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MS SPORT HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90035.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek/redbulltv.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:REDBULL TV HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90037.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek/servustv.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:SERVUS TV MOTORSPORT HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90038.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek/eurosports1.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88757.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/eurosport2.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 2 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88758.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/eurpsport2xtra.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 2 XTRA HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88759.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/dazn1.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DZNSport 1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/99910.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/dazn2.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DZNSport 2 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/99911.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/eksik/daznnflnetwork.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN NFL NETWORK HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89979.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/daznnba.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN NBA HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89978.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/daznlfc.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN LFC TV HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89981.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/daznmbl.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN MBL HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89980.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/event1.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89982.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/2.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 2 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89983.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/3.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 3 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89984.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/4.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 4 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89985.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/5.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 5 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89986.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/6.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 6 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89987.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/7.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 7 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89988.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/8.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 8 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89989.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/9.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 9 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89990.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/10evetnt.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 10 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89991.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/11.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 11 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89992.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/12.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 12 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89993.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/13.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 13 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89994.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/14.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 14 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89995.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/15.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 15 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89996.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/16.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 16 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89997.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/ek3/17.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:DAZN EVENT 17 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89998.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl+1.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ SPORT EVENT 1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90005.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl+2.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ SPORT EVENT 2 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90006.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl+3.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ SPORT EVENT 3 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90007.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl+4.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ SPORT EVENT 4 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90008.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl+5.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ SPORT EVENT 5 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90009.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl+6.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ SPORT EVENT 6 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90010.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl+7.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ SPORT EVENT 7 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90011.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl+8.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ SPORT EVENT 8 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90012.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl+9.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ SPORT EVENT 9 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90013.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl+10.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ SPORT EVENT 10 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90014.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl1.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ LIVE 1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89999.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl2.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ LIVE 2 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90000.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl3.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ LIVE 3 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90001.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl4.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ LIVE 4 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90002.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl5.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ LIVE 5 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90003.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/rtl6.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:RTL+ LIVE 6 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90004.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro3601.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 1",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90018.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro3602.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 2",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90019.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro3603.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 3",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90020.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro3604.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 4",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90021.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro3605.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 5",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90022.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro3606.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 6",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90023.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro3607.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 7",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90024.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro3608.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 8",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90025.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro3609.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 9",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90026.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro36010.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 10",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90027.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro36011.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 11",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90028.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro36012.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 12",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90029.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro36013.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 13",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90030.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro36014.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 14",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90031.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro36015.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 15",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90032.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/rtl/euro36016.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:EUROSPORT 360 HD 16",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/90033.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport1.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:TELEKOM FUSSBALL 1 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88791.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport2.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:TELEKOM FUSSBALL 2 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88792.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport3.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:TELEKOM FUSSBALL 3 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88793.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport4.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:TELEKOM FUSSBALL 4 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88794.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport5.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:TELEKOM FUSSBALL 5 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88795.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport6.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:TELEKOM FUSSBALL 6 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88796.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport7.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:TELEKOM FUSSBALL 7 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88797.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport8.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:TELEKOM FUSSBALL 8 HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/88798.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport19.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89962.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport20.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT PROGRAMMÜBERSICHT HD",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89963.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport1.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 1 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89944.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport2.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 2 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89945.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport3.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 3 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89946.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport4.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 4 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89947.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport5.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 5 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89948.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport6.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 6 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89949.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport7.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 7 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89950.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport8.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 8 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89951.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport9.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 9 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89952.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport10.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 10 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89953.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport11.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 11 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89954.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport12.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 12 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89955.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport13.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 13 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89956.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport14.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 14 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89957.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport15.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 15 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89958.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport16.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 16 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89959.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport17.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 17 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89960.m3u8"
+                },
+                {
+                    "tvg-logo": "https://i0.wp.com/resim.yayins.com/alman/telekomsport18.png",
+                    "group-title": "DEUTSCHE SPORT",
+                    "description": "DE:MAGENTA SPORT 18 HD [3.LIGA]",
+                    "url": "http://107.189.14.168:8080/live/e37HbJ6k/umczIT9V/89961.m3u8"
+                }
+            ]
+        }
+    ]
+}
