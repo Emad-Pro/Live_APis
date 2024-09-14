@@ -19,6 +19,16 @@
             "title": "قنوات الرياضة",
             "icon": "https://fivethirtyeight.com/wp-content/uploads/2022/11/GettyImages-1442587075-e1668806020544.jpg?w=917",
             "link": "football.json"
+        },
+         {
+            "title": "قنوات الرياضة الفرنسية",
+            "icon": "https://fivethirtyeight.com/wp-content/uploads/2022/11/GettyImages-1442587075-e1668806020544.jpg?w=917",
+            "link": "france_sports.json"
+        },
+         {
+            "title": "قنوات الالمانية",
+            "icon": "https://fivethirtyeight.com/wp-content/uploads/2022/11/GettyImages-1442587075-e1668806020544.jpg?w=917",
+            "link": "german_sports.json"
         }
     ]
 }
