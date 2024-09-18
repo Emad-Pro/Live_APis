@@ -1,0 +1,58 @@
+{
+    "channel": [
+        {
+            "category_name": "beIN Sport ",
+            "list_channel": [
+                {
+                    "tvg-id": "",
+                    "tvg-logo": "http://astro2021.felix19.com:2082/images/95e417bf372f1e9adbf8652e05281dc7.png",
+                    "group-title": "Unknown",
+                    "description": "beIN Sport 1",
+                    "url": "http://astro2024d9.felix19.com:2082/KHADRA5FEV23/Lpw7KjEGc5JN/599"
+                },
+                {
+                    "tvg-id": "",
+                    "tvg-logo": "http://astro2021.felix19.com:2082/images/4da9bb9e7e1461328a1a5388e5cb32ee.png",
+                    "group-title": "Unknown",
+                    "description": "beIN Sport 2",
+                    "url": "http://astro2024d9.felix19.com:2082/KHADRA5FEV23/Lpw7KjEGc5JN/600"
+                },
+                {
+                    "tvg-id": "",
+                    "tvg-logo": "http://astro2023.felix19.com:2082/images/b822d6a3c14c2eecae154aec5c437fc3.png",
+                    "group-title": "Unknown",
+                    "description": "beIN Sport 3",
+                    "url": "http://astro2024d9.felix19.com:2082/KHADRA5FEV23/Lpw7KjEGc5JN/601"
+                },
+                {
+                    "tvg-id": "",
+                    "tvg-logo": "http://astro2023.felix19.com:2082/images/66fbd163a4379797937c6de4c010660a.png",
+                    "group-title": "Unknown",
+                    "description": "beIN Sport 4",
+                    "url": "http://astro2024d9.felix19.com:2082/KHADRA5FEV23/Lpw7KjEGc5JN/602"
+                },
+                {
+                    "tvg-id": "",
+                    "tvg-logo": "http://astro2023.felix19.com:2082/images/6dc3e355e81c5e0544979154c4a041d4.png",
+                    "group-title": "Unknown",
+                    "description": "beIN Sport 5",
+                    "url": "http://astro2024d9.felix19.com:2082/KHADRA5FEV23/Lpw7KjEGc5JN/603"
+                },
+                {
+                    "tvg-id": "",
+                    "tvg-logo": "http://astro2021.felix19.com:2082/images/ba1d62a17a58c474ac7932f709897bed.png",
+                    "group-title": "Unknown",
+                    "description": "beIN Sport 6",
+                    "url": "http://astro2024d9.felix19.com:2082/KHADRA5FEV23/Lpw7KjEGc5JN/604"
+                },
+                {
+                    "tvg-id": "",
+                    "tvg-logo": "http://astro2021.felix19.com:2082/images/d0044e9557c2e6264d0bbca1c20d51d6.png",
+                    "group-title": "Unknown",
+                    "description": "beIN Sport 7",
+                    "url": "http://astro2024d9.felix19.com:2082/KHADRA5FEV23/Lpw7KjEGc5JN/605"
+                }
+            ]
+        }
+    ]
+}
