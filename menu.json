@@ -6,37 +6,10 @@
             "link": "arab_channel_list.json"
         },
         {
-            "title": "القنوات التركية ",
+            "title": "BeIN Sports Channels",
             "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
             "link": "turk.json"
         },
-        {
-            "title": "منوعات",
-            "icon": "https://upload.wikimedia.org/wikipedia/ar/9/90/Arab_tv_logo.jpg",
-            "link": "movie.json"
-        },
-        {
-            "title": "قنوات الرياضة",
-            "icon": "https://fivethirtyeight.com/wp-content/uploads/2022/11/GettyImages-1442587075-e1668806020544.jpg?w=917",
-            "link": "football.json"
-        },
-         {
-            "title": "قنوات الرياضة الفرنسية",
-            "icon": "https://fivethirtyeight.com/wp-content/uploads/2022/11/GettyImages-1442587075-e1668806020544.jpg?w=917",
-            "link": "france_sports.json"
-        },
-         {
-            "title": "قنوات الالمانية",
-            "icon": "https://fivethirtyeight.com/wp-content/uploads/2022/11/GettyImages-1442587075-e1668806020544.jpg?w=917",
-            "link": "german_sports.json"
-        },{
-            "title": "BeiN Sports",
-            "icon": "https://fivethirtyeight.com/wp-content/uploads/2022/11/GettyImages-1442587075-e1668806020544.jpg?w=917",
-            "link": "bein.json"
-        },{
-            "title": "Abu Dhabi Sport",
-            "icon": "https://i.imgur.com/6BVWk8z.png",
-            "link": "abu_dubi.json"
-        }
+       
     ]
 }
